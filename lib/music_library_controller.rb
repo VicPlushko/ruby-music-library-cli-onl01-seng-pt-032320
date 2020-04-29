@@ -24,7 +24,7 @@ class MusicLibraryController
    when 'list songs'
      self.list_songs
    when 'list artist'
-     self.list_artist
+     self.list_artists
    end
    end
   end
